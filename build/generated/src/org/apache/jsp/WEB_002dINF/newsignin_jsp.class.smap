@@ -1,0 +1,16 @@
+SMAP
+newsignin_jsp.java
+JSP
+*S JSP
+*F
++ 0 newsignin.jsp
+WEB-INF/newsignin.jsp
+*L
+5,12:45
+17,6:58
+22,5:64
+27,2:69,3
+29,3:75
+32,2:78,3
+34,11:84
+*E
